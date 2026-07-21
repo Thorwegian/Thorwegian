@@ -6,7 +6,7 @@ Programming since 1990. Finnmark, Norway.
 
 **[libsynth](https://github.com/Thorwegian/libsynth)** — C++20 software reference implementation for the same DSP architecture.
 
-**[Klang Modular](https://thj.no/klang-modular/)** — open hardware platform for swappable synth engines.
+**[Noaidi Flex](https://thj.no/noaidi/)** — FPGA synth module with swappable engine architecture.
 
 ## Other
 
